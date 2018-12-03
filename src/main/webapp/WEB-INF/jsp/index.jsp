@@ -5,31 +5,31 @@
 <html>
 <head>
     <title><spring:message code="spring.test.mvc.example.title"/></title>
-    <link rel="stylesheet" type="text/css" href="/static/css/example.css"/>
-    <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.css"/>
-    <link rel="stylesheet" type="text/css" href="/static/css/bootstrap-responsive.css"/>
-    <script type="text/javascript" src="/static/js/vendor/jquery-1.8.2.js"></script>
-    <script type="text/javascript" src="/static/js/vendor/spin.js"></script>
-    <script type="text/javascript" src="/static/js/vendor/bootstrap.js"></script>
-    <script type="text/javascript" src="/static/js/vendor/bootstrap-transition.js"></script>
-    <script type="text/javascript" src="/static/js/vendor/bootstrap-collapse.js"></script>
-    <script type="text/javascript" src="/static/js/vendor/i18next-1.5.8.js"></script>
-    <script type="text/javascript" src="/static/js/vendor/underscore.js"></script>
-    <script type="text/javascript" src="/static/js/vendor/backbone.js"></script>
-    <script type="text/javascript" src="/static/js/vendor/Backbone.ModelBinder.js"></script>
-    <script type="text/javascript" src="/static/js/vendor/handlebars-1.0.rc.1.js"></script>
-    <script type="text/javascript" src="/static/js/vendor/backbone.marionette.js"></script>
-    <script type="text/javascript" src="/static/js/app/app.js"></script>
-    <script type="text/javascript" src="/static/js/app/todo/todo.events.js"></script>
-    <script type="text/javascript" src="/static/js/app/todo/todo.controller.js"></script>
-    <script type="text/javascript" src="/static/js/app/todo/todo.i18n.js"></script>
-    <script type="text/javascript" src="/static/js/app/todo/todo.models.js"></script>
-    <script type="text/javascript" src="/static/js/app/todo/todo.routing.js"></script>
-    <script type="text/javascript" src="/static/js/app/todo/todo.views.js"></script>
-    <script type="text/javascript" src="/static/js/app/error/error.events.js"></script>
-    <script type="text/javascript" src="/static/js/app/error/error.controller.js"></script>
-    <script type="text/javascript" src="/static/js/app/error/error.routing.js"></script>
-    <script type="text/javascript" src="/static/js/app/error/error.views.js"></script>
+    <link rel="stylesheet" type="text/css" href="static/css/example.css"/>
+    <link rel="stylesheet" type="text/css" href="static/css/bootstrap.css"/>
+    <link rel="stylesheet" type="text/css" href="static/css/bootstrap-responsive.css"/>
+    <script type="text/javascript" src="static/js/vendor/jquery-1.8.2.js"></script>
+    <script type="text/javascript" src="static/js/vendor/spin.js"></script>
+    <script type="text/javascript" src="static/js/vendor/bootstrap.js"></script>
+    <script type="text/javascript" src="static/js/vendor/bootstrap-transition.js"></script>
+    <script type="text/javascript" src="static/js/vendor/bootstrap-collapse.js"></script>
+    <script type="text/javascript" src="static/js/vendor/i18next-1.5.8.js"></script>
+    <script type="text/javascript" src="static/js/vendor/underscore.js"></script>
+    <script type="text/javascript" src="static/js/vendor/backbone.js"></script>
+    <script type="text/javascript" src="static/js/vendor/Backbone.ModelBinder.js"></script>
+    <script type="text/javascript" src="static/js/vendor/handlebars-1.0.rc.1.js"></script>
+    <script type="text/javascript" src="static/js/vendor/backbone.marionette.js"></script>
+    <script type="text/javascript" src="static/js/app/app.js"></script>
+    <script type="text/javascript" src="static/js/app/todo/todo.events.js"></script>
+    <script type="text/javascript" src="static/js/app/todo/todo.controller.js"></script>
+    <script type="text/javascript" src="static/js/app/todo/todo.i18n.js"></script>
+    <script type="text/javascript" src="static/js/app/todo/todo.models.js"></script>
+    <script type="text/javascript" src="static/js/app/todo/todo.routing.js"></script>
+    <script type="text/javascript" src="static/js/app/todo/todo.views.js"></script>
+    <script type="text/javascript" src="static/js/app/error/error.events.js"></script>
+    <script type="text/javascript" src="static/js/app/error/error.controller.js"></script>
+    <script type="text/javascript" src="static/js/app/error/error.routing.js"></script>
+    <script type="text/javascript" src="static/js/app/error/error.views.js"></script>
 </head>
 <body>
 <div class="page">

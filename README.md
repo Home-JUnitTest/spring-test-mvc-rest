@@ -7,12 +7,18 @@
 
 RUNNING THE APPLICATION:
 
-- Запуск веб-приложения через команду
+- Запустить веб-приложения через команду
   ```bash
   mvn clean jetty:run
   ```
 - Запустите свой браузер и перейдите по адрессу
   [http://localhost:8080](http://localhost:8080)
+
+- или запустить веб-приложения с помощью физического сервера приложения JBOSS (через IntelliJ IDEA)
+  * Deployment `spring-test-mvc-configuration:war exploded`
+  * Server [http://localhost:8080/spring-test-mvc-configuration/](http://localhost:8080/spring-test-mvc-configuration/)
+- Запустите свой браузер и перейдите по адрессу
+  [http://localhost:8080/spring-test-mvc-configuration/](http://localhost:8080/spring-test-mvc-configuration/)
 
 ![spring-test-mvc - Todo List](tutorial/spring-test-mvc2018-12-03 16-51-29.png)
 
