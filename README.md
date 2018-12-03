@@ -20,7 +20,7 @@ RUNNING THE APPLICATION:
 - Запустите свой браузер и перейдите по адрессу
   [http://localhost:8080/spring-test-mvc-configuration/](http://localhost:8080/spring-test-mvc-configuration/)
 
-![spring-test-mvc - Todo List](tutorial/spring-test-mvc2018-12-03 16-51-29.png)
+![spring-test-mvc - Todo List](tutorial/spring-test-mvc2018-12-03.png)
 
 
 RUNNING TESTS:
